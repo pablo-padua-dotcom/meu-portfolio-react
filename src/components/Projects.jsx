@@ -7,12 +7,12 @@ const projetosData = [
   {
     titulo: 'Meu Portfólio',
     imagem: ProjetoImg,
-    url: '#'
+    url: 'https://github.com/pablo-padua-dotcom/meu-portfolio'
   },
   {
     titulo: 'Meu Portfólio React',
     imagem: ProjetoImg,
-    url: '#'
+    url: 'https://github.com/pablo-padua-dotcom/meu-portfolio-react'
   }
 ];
 
